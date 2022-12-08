@@ -15,6 +15,7 @@
   "author": "Eric Salter",
   "license": "ISC",
   "devDependencies": {
+    "@types/lodash": "^4.14.191",
     "@types/node": "^16.11.6",
     "aocrunner": "^1.9.1",
     "prettier": "^2.8.0"
